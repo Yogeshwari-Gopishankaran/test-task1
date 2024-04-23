@@ -1,0 +1,65 @@
+.background{
+    background-image: url('./Assets/img3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Search{
+text-align: center;
+margin-top: 30px;
+}
+#search{
+    width: 25%;
+    text-align: center;
+    margin : 0 auto;
+}
+.container{
+    margin-top: 30px;
+}
+.heading{
+    padding-top: 15px;
+}
+h2{
+    font-family:cursive,sans-serif;
+}
+
+.card{
+    text-align: center;
+    margin-left: 15px;
+ min-height: 250px;
+ box-shadow: 10px 10px rgb(183, 74, 74);
+ background-color:blanchedalmond;
+}
+.content{
+    padding-top: 20px;
+    display: flex;
+}
+.image{
+  margin-left: 10px;
+border: 1px solid black;
+    height:100px;
+    min-width: 80px
+}
+#img-2{
+    width: 100px;
+    height: 95px;
+    border-radius: 50%;
+    
+}
+.design{
+    padding-top: 20px;
+}
+.img-thumbnail{
+    border:none !important;
+}
+button{
+    background-color: rgb(50, 185, 50) ;
+    font-family:cursive,sans-serif !important;
+}
+#act:hover{
+   background-color: rgb(254, 250, 118);
+   color: black;
+}
+#act1:hover{
+    background-color: rgb(87, 1, 1);
+    color:whitesmoke ;
+ }
